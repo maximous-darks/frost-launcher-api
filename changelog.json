@@ -1,1 +1,10 @@
-
+{
+  "version": "Weekly Update #1",
+  "changelog": [
+    "[+] Added new POI: The Shark",
+    "[~] Fixed collision issues in Slurpy Swamp",
+    "[-] Removed Heavy Sniper from competitive play",
+    "[+] Introduced Charge Shotgun",
+    "[~] Adjusted material farming rates"
+  ]
+}
